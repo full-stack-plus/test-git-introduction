@@ -1,3 +1,5 @@
 Ideas para el proyecto.
 1. Crear una página web.
 2. Desarrollar una API.
+3. Crear una imagen de Docker para el proyecto.
+4. Implementar Node js en el proyecto.
