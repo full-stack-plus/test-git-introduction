@@ -1,5 +1,6 @@
 Reporte de avance.
 - Tarea 1: Investigación completada.
 - Tarea 2: Comenzamos la planificación.
-- Tarea FALSA 3: No comenzamos la planificación.
-- TAREA FALSA 4: Me dormí en el trabajo.
+- Tarea 3: Comenzamos a desarrollar.
+- Tarea 4: Comenzamos a documentar.
+- Tarea 5: Comenzamos a implementar.

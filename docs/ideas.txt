@@ -3,3 +3,5 @@ Ideas para el proyecto.
 2. Desarrollar una API.
 3. No despertarse a tiempo.
 4. Hacer mal la cama.
+5. Crear una imagen de Docker para el proyecto.
+6. Implementar Node js en el proyecto.
