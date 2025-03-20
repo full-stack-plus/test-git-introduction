@@ -1,0 +1,3 @@
+Ideas para el proyecto.
+1. Crear una página web.
+2. Desarrollar una API.

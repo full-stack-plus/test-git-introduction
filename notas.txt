@@ -1,0 +1,3 @@
+Notas iniciales del proyecto.
+1. Investigar sobre Git.
+2. Planificar el proyecto.
